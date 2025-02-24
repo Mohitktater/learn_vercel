@@ -15,7 +15,7 @@
       {
         "src": "/search",
         "methods": ["GET"],
-        "dest": "/api/search"
+        "dest": "/index.js"
     }
     ]
      
