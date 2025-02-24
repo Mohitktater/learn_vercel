@@ -20,6 +20,6 @@ app.get('/search', (req, res) => {
   });
 });
 
-app.listen(port, () => {
+app.listen( () => {
   console.log(`Server running on http://localhost:${port}`);
 });
