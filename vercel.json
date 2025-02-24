@@ -16,9 +16,12 @@
         "src": "/search",
         "methods": ["GET"],
         "dest": "/index.js"
-    }
+      },
+      {
+        "src": "/api/upload",
+        "methods": ["POST"],
+        "dest": "/index.js"
+      }
     ]
-     
-      
   }
   
