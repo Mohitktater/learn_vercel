@@ -1,0 +1,141 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "slug": "a-plus-asbestos-ltd",
+        "name": "A Plus Asbestos Ltd",
+        "type": "business",
+        "rating": "4.4",
+        "ratingCount": "2300",
+        "description": "Specializing in asbestos removal, A Plus Asbestos Ltd offers comprehensive testing and surveys with over 25 years of industry experience. Committed to safety and quality.",
+        "address": "37 EVERGREEN ROAD, FRIMLEY, CAMBERLEY, GU16 8PX",
+        "distance": "0.5 Miles",
+        "phone": "+91-7759982615",
+        "phone2": "+91-7759982615",
+        "relatedTrades": [
+          "Asbestos Services",
+          "Asbestos Services 2",
+          "plumber3",
+          "plumber4"
+        ],
+        "images": [
+          "https://trustedtraders.uktsa.com/Content/Images/surrey-new-logo-small.png",
+          "https://trustedtraders.uktsa.com/Content/Images/surrey-new-logo-small.png",
+          "https://trustedtraders.uktsa.com/Content/Images/surrey-new-logo-small.png"
+        ],
+        "latitude": "51.3148",
+        "longitude": "-0.7460",
+        "postCode": "GU16 8PX"
+      },
+      {
+        "id": 2,
+        "slug": "b-safe-asbestos",
+        "name": "B-Safe Asbestos",
+        "type": "business",
+        "rating": "4.6",
+        "ratingCount": "1250",
+        "description": "B-Safe Asbestos excels in safe asbestos removal and disposal, using cutting-edge technology and expert staff to ensure compliance and safety.",
+        "address": "58 OAK AVENUE, EALING, LONDON, W5 4XA",
+        "distance": "2.0 Miles",
+        "phone": "+91-7769982145",
+        "phone2": "+91-7769982145",
+        "relatedTrades": [
+          "Asbestos Consulting",
+          "Hazard Removal",
+          "Safety Inspections"
+        ],
+        "images": [
+          "https://trustedtraders.uktsa.com/Content/Images/surrey-new-logo-small.png",
+          "https://trustedtraders.uktsa.com/Content/Images/surrey-new-logo-small.png"
+        ],
+        "latitude": "51.5095",
+        "longitude": "-0.3062",
+        "postCode": "W5 4XA"
+      },
+      {
+        "id": 3,
+        "slug": "clean-air-asbestos-removal",
+        "name": "Clean Air Asbestos Removal",
+        "type": "business",
+        "rating": "4.8",
+        "ratingCount": "940",
+        "description": "Clean Air Asbestos Removal provides top-notch asbestos abatement and testing services, ensuring environmental compliance and safety for all.",
+        "address": "15 PINE ROAD, NEWCASTLE, NE1 4AD",
+        "distance": "1.5 Miles",
+        "phone": "+91-7769002155",
+        "phone2": "+91-7769002155",
+        "relatedTrades": [
+          "Asbestos Abatement",
+          "Environmental Compliance",
+          "Property Safety"
+        ],
+        "images": [
+          "https://trustedtraders.uktsa.com/Content/Images/surrey-new-logo-small.png"
+        ],
+        "latitude": "54.9783",
+        "longitude": "-1.6174",
+        "postCode": "NE1 4AD"
+      },
+      {
+        "id": 4,
+        "slug": "asbestos-zero-ltd",
+        "name": "Asbestos Zero Ltd",
+        "type": "business",
+        "rating": "5.0",
+        "ratingCount": "300",
+        "description": "Asbestos Zero Ltd specializes in effective asbestos removal for both residential and commercial settings, ensuring a completely asbestos-free environment.",
+        "address": "82 HIGH STREET, BIRMINGHAM, B4 7TA",
+        "distance": "3.5 Miles",
+        "phone": "+91-7789982166",
+        "phone2": "+91-7789982166",
+        "relatedTrades": [
+          "Asbestos Testing",
+          "Asbestos Disposal",
+          "Building Safety"
+        ],
+        "images": [],
+        "latitude": "52.4862",
+        "longitude": "-1.8904",
+        "postCode": "B4 7TA"
+      },
+      {
+        "id": 5,
+        "slug": "eco-safe-asbestos-control",
+        "name": "Eco-Safe Asbestos Control",
+        "type": "business",
+        "rating": "4.9",
+        "ratingCount": "1120",
+        "description": "Eco-Safe Asbestos Control offers eco-friendly, safe solutions for asbestos testing and removal, adhering to the highest safety standards.",
+        "address": "90 QUEEN STREET, MANCHESTER, M2 5HT",
+        "distance": "0.8 Miles",
+        "phone": "+91-7789956235",
+        "phone2": "+91-7789956235",
+        "relatedTrades": [
+          "Asbestos Management",
+          "Hazard Analysis",
+          "Eco-Safe Disposal"
+        ],
+        "images": [],
+        "latitude": "53.4839",
+        "longitude": "-2.2446",
+        "postCode": "M2 5HT"
+      }
+    ],
+    "relatedItems": [
+      {
+        "item": "Plumbers",
+        "itemSlug": "plumbers"
+      },
+      {
+        "item": "Furniture Repair",
+        "itemSlug": "furniture_repair"
+      },
+      {
+        "item": "Eco-Safe Disposal",
+        "itemSlug": "eco-safe-Disposal"
+      }
+    ],
+    "status": "success",
+    "total": "5",
+    "count": "5"
+  }
